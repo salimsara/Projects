@@ -31,8 +31,8 @@ Here are some of the technologies and tools I’ve used in my presented projects
 
 ## Projects
 
-- **Predicting flight delays** - A personal data science project using Bayesian inference to predict flight delays based on various flight attributes.
-- **Regression analysis with Python** - A personal project focused on exploratory data analysis and regression modeling using Python.
+- **Predicting flight delays** - A personal data science project using Bayesian inference to predict flight delays based on various flight attributes. (Link in the main repository)
+- **Regression analysis with Python** - A personal project focused on exploratory data analysis and regression modeling using Python. (Link in the main repository)
 - **Safkaa** - A group project developing a recipe web application with a user-friendly interface and dynamic content. Link to the project: https://github.com/salimsara/Recipe-application
 - **Follow the line** - A group project developing a line-following, autonomous robot in a simulated environment. Link to the project: https://github.com/salimsara/Follow-the-line
 
